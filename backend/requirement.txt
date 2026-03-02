@@ -1,0 +1,7 @@
+Flask==3.0.2
+flask-cors==4.0.0
+flask-sqlalchemy==3.1.1
+transformers==4.40.0
+torch==2.2.2
+sentencepiece==0.2.0
+gTTS==2.5.1
